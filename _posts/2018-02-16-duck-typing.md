@@ -2,7 +2,7 @@
 layout: post
 title:  "Duck Typing"
 ---
-My primary development language at the moment is Ruby, but I've been learning Go.  Languages have varying ways of dealing with different types of objects in the same way, and I always find myself thinking about these when learning a new language.  The concept of duck typing (based on the idea that if it quacks like a duck, it's a duck) is used in Ruby:
+My primary development language at the moment is Ruby, but I've been learning Go.  Languages have varying ways of dealing with different types of objects in the same way, and I always find myself thinking about these kinds of variation when learning a new language.  The concept of duck typing (based on the idea that if it quacks like a duck, it's a duck) is used in Ruby:
 
 ```ruby
 class Mallard
